@@ -134,3 +134,7 @@ For detailed information on how to contribute, see [here](https://python.langcha
 ## 🌟 Contributors
 
 [![langchain contributors](https://contrib.rocks/image?repo=langchain-ai/langchain&max=2000)](https://github.com/langchain-ai/langchain/graphs/contributors)
+
+## Shoutout
+
+To all my homies!
